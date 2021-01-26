@@ -1,1 +1,1 @@
-$(function(){let n=$("#network-navbar-top");function o(o){$(window).scrollTop()>=n.outerHeight()?n.addClass(o):n.removeClass(o)}o("bg-dark"),$(window).on("scroll",function(){o("bg-dark")})});
+$(function(){let n=$("#network-navbar-top");function o(o){$(window).scrollTop()>=n.outerHeight()?n.addClass(o):n.removeClass(o)}o("bg-dark"),$(window).on("scroll",function(){o("bg-dark shadow-main")})});
